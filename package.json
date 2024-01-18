@@ -1,0 +1,31 @@
+{
+  "name": "exel_course",
+  "version": "1.0.0",
+  "description": "puer java script",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uristinjava/exel_course.git"
+  },
+  "keywords": [
+    "js",
+    "exel",
+    "course"
+  ],
+  "author": "Klykov Mikhail <m-klikov@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uristinjava/exel_course/issues"
+  },
+  "homepage": "https://github.com/uristinjava/exel_course#readme",
+  "privite": false,
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
